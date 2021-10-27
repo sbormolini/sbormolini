@@ -1,7 +1,7 @@
 {
   "name": "mustache",
   "version": "1.0.0",
-  "description": "<!-- **sbormolini/sbormolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/sbormolini/sbormolini.git"
   },
-  "author": "",
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Sandro Bormolini",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sbormolini/sbormolini/issues"
