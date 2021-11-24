@@ -14,7 +14,6 @@
     Welcome to my GitHub profile! I'm a System Engineer from Switzerland and quite interested in coding. <br>
     Thanks for visiting and if you like to connect, you can click on one of the buttons above.
 </p>
-<br>
 <h3>Things I try to understand:</h3>
 <p>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -33,12 +32,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbormolini&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-------------
-<p align="center">
-    This README file is generated <b>every 8 hours</b>!</br>Last refresh: Wednesday, 24 November, 17:16 CET<br />
-    <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Thanks to thmsgbrt!</a>
-</p>
-<p align="center">
-    <img src="https://github.com/sbormolini/sbormolini/workflows/README%20build/badge.svg" />
-</p>
